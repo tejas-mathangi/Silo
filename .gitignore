@@ -1,0 +1,14 @@
+.venv/
+.env
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+qdrant_storage/
+
+.vscode/
+.idea/
+
+GEMINI.md
+DEVELOPMENT_LOG.md

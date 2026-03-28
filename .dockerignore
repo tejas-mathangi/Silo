@@ -1,0 +1,12 @@
+.venv
+.git
+__pycache__
+*.pyc
+.env
+.python-version
+data/
+outputs/
+tests/
+README.md
+GEMINI.md
+DEVELOPMENT_LOG.md
